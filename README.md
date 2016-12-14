@@ -16,7 +16,7 @@ El ninja hack utiliza dos tecnologías:
 
 Dentro de la [Wiki] (https://github.com/BBVA/ninja-hack/wiki) hay información mas detallada sobre estas tecnologías.
 
-##¿Donde puedo preguntar sobre estas tecnologías?
+##¿Dónde puedo preguntar sobre estas tecnologías?
 
 Existe un canal de slack donde los facitadores del evento te contestan. Pregunta al portavoz de tu equipo para que te diga cuál es y cómo usarlo.
 
