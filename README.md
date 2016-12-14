@@ -35,23 +35,23 @@ El jurado evaluará los siguientes aspectos:
 
 **Comunicación** (20% de la calificación global):
 
-  La participación de los miembros del equipo en la presentación final.
-  Maestría a la hora de transmitir los mensajes principales.
-  Uso del tiempo durante la presentación final.
+  * La participación de los miembros del equipo en la presentación final.
+  * Maestría a la hora de transmitir los mensajes principales.
+  * Uso del tiempo durante la presentación final.
 
 **Orientación a cliente** (40% de la calificación global):
 
-  Relevancia de los problemas o necesidades del cliente (interno/externo) que se pretende resolver con el prototipo propuesto.
-  Efectividad del prototipo para resolver los problemas o necesidades propuestas.
-  Que el tamaño de la idea esté ajustado al tiempo y skills de los que dispone en equipo, sencillez.
-  Que el prototipo funcione en la presentación final.
+  * Relevancia de los problemas o necesidades del cliente (interno/externo) que se pretende resolver con el prototipo propuesto.
+  * Efectividad del prototipo para resolver los problemas o necesidades propuestas.
+  * Que el tamaño de la idea esté ajustado al tiempo y skills de los que dispone en equipo, sencillez.
+  * Que el prototipo funcione en la presentación final.
 
 Aparte del jurado principal, los facilitadores que conoceréis en el momento de la celebración del Hackathon, evaluarán:
 
 **Calidad del prototipo** (40% de la calificación global):
 
-  Modularidad del código
-  Código limpio
-  Uso correcto de las técnicas en el prototipo
-  Aprovechamiento de las plataformas
-  Qué las funcionalidades desarrolladas funcionen correctamente  
+  * Modularidad del código
+  * Código limpio
+  * Uso correcto de las técnicas en el prototipo
+  * Aprovechamiento de las plataformas
+  * Qué las funcionalidades desarrolladas funcionen correctamente  
