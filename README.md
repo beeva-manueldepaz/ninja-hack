@@ -14,7 +14,7 @@ El ninja hack utiliza dos tecnologías:
 * [Cells](https://www.cellsjs.com/guides/index.html) para la parte de desarrollo de la aplicación front.
 * Técnicas de procesado natural del lenguaje (NLP).
 
-Dentro de la [Wiki] (https://github.com/BBVA/ninja-hack/wiki) hay información mas detallada sobre estas tecnologías.
+Dentro de la [Wiki] (https://github.com/BBVA/ninja-hack/wiki) hay información más detallada sobre estas tecnologías.
 
 ##¿Dónde puedo preguntar sobre estas tecnologías?
 
