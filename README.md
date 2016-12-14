@@ -29,7 +29,7 @@ Cada equipo que este en el ninjaHack va a tener una cuenta de amazon [AWS](https
 Se va a crear un proyecto por equipo, en el [bitbucket de BBVA](https://globaldevtools.bbva.com/bitbucket/). El viernes 16/12/2016 daremos la cuenta para que podáis empezar a configurar tu repositorio.
 
 
-##¿Cómo se va a evaluar vuestro trabajo?
+##¿Cómo se va a evaluar el trabajo?
 
 El jurado evaluará los siguientes aspectos: 
 
