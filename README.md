@@ -16,4 +16,5 @@ Cada equipo que este en el ninjaHack va a tener una cuenta de amazo [AWS](https:
 
 ##Donde voy a compartir el código
 
-Se va a crear un proyecto por equipo, en el [bitbucket de BBVA](globaldevtools.bbva.com/bitbucket/) 
+Se va a crear un proyecto por equipo, en el [bitbucket de BBVA](https://globaldevtools.bbva.com/bitbucket/). El viernes 16/12/2016 daremos la cuenta 
+
