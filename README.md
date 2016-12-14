@@ -4,7 +4,7 @@ El principal propósito de este repositorio es dar la información necesaria a t
 
 ##¿Qué tengo que llevar al ninjaHack?
 
-* Portatil con linux preferiblemente [Ubuntu](https://www.ubuntu.com/) u OSX.
+* Portátil con linux preferiblemente [Ubuntu](https://www.ubuntu.com/) u OSX.
 * Puedes utilizar una máquina virtual por ejemplo [Virtual box](https://www.virtualbox.org/) si tu equipo es un windows
 
 ##¿Qué tecnologías vamos a usar?
@@ -18,11 +18,11 @@ Dentro de la [Wiki] (https://github.com/BBVA/ninja-hack/wiki) hay información m
 
 ##¿Dónde puedo preguntar sobre estas tecnologías?
 
-Existe un canal de slack donde los facitadores del evento te contestan. Pregunta al portavoz de tu equipo para que te diga cuál es y cómo usarlo.
+Existe un canal de slack donde los facilitadores del evento te contestan. Pregunta al portavoz de tu equipo para que te diga cuál es y cómo usarlo.
 
 ##¿Dónde vamos a desplegar?
 
-Cada equipo que este en el ninjaHack va a tener una cuenta de amazon [AWS](https://aws.amazon.com/es/?nc2=h_lg) donde poder desplegar su software. Se podrá utilizar cualquiera de las herramientas (Dynamo,ECS,Lambda,Kinesis,SNS,EBS...) que proporciona AWS para desarrollar y desplegar la aplicación.
+Cada equipo que este en el ninjaHack va a tener una cuenta de amazon [AWS](https://aws.amazon.com/es/?nc2=h_lg) donde poder desplegar su software. Se podrá utilizar cualquiera de las herramientas (DynamoDB,ECS,Lambda,Kinesis,SNS,EBS...) que proporciona AWS para desarrollar y desplegar la aplicación.
 
 ##¿Dónde voy a compartir el código?
 
